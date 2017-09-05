@@ -4,8 +4,6 @@ source ~/.pwrfunc.sh
 
 ### Variables ###
 
-export PS1=export PS1="\u@[WORKSTATION] \w \\$ "
-export PATH=/usr/local/bin:$PATH
 export TERM=xterm-color
 export CLICOLOR=1
 export COLOR_NC='\e[0m' # No Color
