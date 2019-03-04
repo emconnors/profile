@@ -1,4 +1,8 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
-let g:netrw_dirhist_1='/Users/evaconnors/.pwr'
-let g:netrw_dirhist_2='/Users/evaconnors/.vim'
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/evaconnors/gitstuff/product-services/product-services-common'
+let g:netrw_dirhist_2='/Users/evaconnors/gitstuff/content-publication/content-publication-shared'
+let g:netrw_dirhist_3='/Users/evaconnors/gitstuff/core-data-services/cdm-core-services'
+let g:netrw_dirhist_4='/Users/evaconnors/gitstuff/analytics-etl/reporting-etl'
+let g:netrw_dirhist_5='/Users/evaconnors/gitstuff/reporting/reporting-services-api/deploy'
+let g:netrw_dirhist_6='/Users/evaconnors/gitstuff/content-publication/content-publication-worker'
